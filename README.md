@@ -1,7 +1,7 @@
 # clean-php-invoice
 # Author: Mussa Idris
 # Developed in: 2018
-# Programming Language & Tools:  Php - Html -JS-CSS - Mysql
+# Programming Language & Tools:  Php - Html -JS-CSS- Bootstrap - Mysql
 
 
 
